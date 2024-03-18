@@ -1,0 +1,11 @@
+<currencies>
+    <currency>
+        <code>USD</code>
+        <name>US Dollar</name>
+    </currency>
+    <currency>
+        <code>EUR</code>
+        <name>Euro</name>
+    </currency>
+    <!-- Add more currencies as needed -->
+</currencies>
